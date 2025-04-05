@@ -17,5 +17,7 @@ dependencies = [
     "torchaudio==2.5.1",
     "tqdm==4.66.5",
     "transformers==4.46.2",
-    "gradio==5.18.0"
+    "gradio==5.18.0",
+    "ipykernel>=6.29.5",
+    "huggingface-hub>=0.30.1",
 ]
